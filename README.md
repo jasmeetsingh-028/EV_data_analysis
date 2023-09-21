@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- I would like to express our gratitude to [https://ev-database.org/](https://ev-database.org/) for providing invaluable EV data for analysis.
+I would like to express our gratitude to [https://ev-database.org/](https://ev-database.org/) for providing invaluable EV data for analysis.
 
 
 
