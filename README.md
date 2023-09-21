@@ -39,3 +39,14 @@ This project explores and analyzes two datasets related to Electric Vehicles (EV
 
 To retrieve updated EV data, you can use the provided `fetch.py` script for web scraping from [https://ev-database.org/](https://ev-database.org/).
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- I would like to express our gratitude to [https://ev-database.org/](https://ev-database.org/) for providing invaluable EV data for analysis.
+
+Feel free to add any additional acknowledgments or credits as needed to recognize the contributions and resources that supported your project.
+
+
