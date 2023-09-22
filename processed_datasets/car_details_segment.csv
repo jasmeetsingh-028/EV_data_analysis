@@ -5,7 +5,7 @@ Honda City 2017-2020 EXi,158000,140000,Petrol,Manual,1497.0,78.0,5.0,1
 Hyundai i20 Sportz Diesel,225000,127000,Diesel,Manual,1396.0,90.0,5.0,0
 Maruti Swift VXI BSIII,130000,120000,Petrol,Manual,1298.0,88.2,5.0,1
 Hyundai Xcent 1.2 VTVT E Plus,440000,45000,Petrol,Manual,1197.0,81.86,5.0,1
-Maruti Wagon R LXI DUO BSIII,96000,175000,LPG,Manual,1061.0,57.5,5.0,4
+Maruti Wagon R LXI DUO BSIII,96000,175000,LPG,Manual,1061.0,57.5,5.0,3
 Maruti 800 DX BSII,45000,5000,Petrol,Manual,796.0,37.0,4.0,1
 Toyota Etios VXD,350000,90000,Diesel,Manual,1364.0,67.1,5.0,0
 Ford Figo Diesel Celebration Edition,200000,169000,Diesel,Manual,1399.0,68.1,5.0,0
@@ -32,7 +32,7 @@ Maruti Vitara Brezza LDi Option,670000,70000,Diesel,Manual,1248.0,88.5,5.0,0
 Maruti Omni 8 Seater BSIV,150000,35000,Petrol,Manual,796.0,35.0,5.0,1
 Hyundai i20 1.2 Asta Dual Tone,730000,2388,Petrol,Manual,1197.0,81.83,5.0,1
 Maruti Vitara Brezza LDi,650000,16200,Diesel,Manual,1248.0,88.5,5.0,0
-Maruti Alto 800 CNG LXI Optional,330000,10000,CNG,Manual,796.0,40.3,4.0,3
+Maruti Alto 800 CNG LXI Optional,330000,10000,CNG,Manual,796.0,40.3,4.0,4
 Maruti Alto K10 VXI Airbag,366000,15000,Petrol,Manual,998.0,67.1,5.0,1
 Hyundai Verna VTVT 1.6 SX Option,1149000,5000,Petrol,Manual,1591.0,121.3,5.0,1
 Datsun GO D,150000,42000,Petrol,Manual,1198.0,67.0,5.0,1
@@ -85,7 +85,7 @@ Maruti Alto 800 VXI BSIV,315000,32000,Petrol,Manual,796.0,47.3,5.0,1
 Maruti Alto 800 LXI BSIV,275000,38000,Petrol,Manual,796.0,47.3,5.0,1
 Hyundai i10 Era 1.1,290000,28000,Petrol,Manual,1086.0,68.05,5.0,1
 Maruti Omni 8 Seater BSIV,280000,32000,Petrol,Manual,796.0,35.0,5.0,1
-Maruti Wagon R LXI LPG BSIV,225000,44000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R LXI LPG BSIV,225000,44000,LPG,Manual,998.0,58.2,5.0,3
 Volkswagen Polo 1.2 MPI Comfortline,455000,42000,Petrol,Manual,1198.0,74.0,5.0,1
 Hyundai i10 Magna 1.1L,351000,45000,Petrol,Manual,1086.0,68.05,5.0,1
 Volkswagen Vento Petrol Highline,535000,12000,Petrol,Manual,1598.0,103.6,5.0,1
@@ -194,7 +194,7 @@ Tata Tigor 1.2 Revotron XZ,520000,14000,Petrol,Manual,1199.0,84.0,5.0,1
 Maruti Ertiga VDI,580000,70000,Diesel,Manual,1248.0,88.76,7.0,0
 Honda City i VTEC S,600000,50000,Petrol,Manual,1497.0,117.3,5.0,1
 Honda Brio S MT,290000,60000,Petrol,Manual,1198.0,86.8,5.0,1
-Maruti Wagon R LXI CNG,360000,50000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,360000,50000,CNG,Manual,998.0,58.16,5.0,4
 Maruti Swift Dzire VXI,550000,50000,Petrol,Manual,1197.0,83.14,5.0,1
 Hyundai i20 Sportz 1.2,375000,70000,Petrol,Manual,1197.0,82.85,5.0,1
 Maruti Wagon R AMT VXI,420000,35000,Petrol,Automatic,998.0,67.0,5.0,2
@@ -386,7 +386,7 @@ Maruti Alto 800 VXI,240000,50000,Petrol,Manual,796.0,47.3,5.0,1
 Honda City i-VTEC CVT V,1085000,1000,Petrol,Automatic,1497.0,117.6,5.0,2
 Maruti Swift Dzire AMT VDI,750000,19000,Diesel,Automatic,1248.0,74.02,5.0,2
 Tata Indigo LS,95000,265000,Diesel,Manual,1405.0,70.0,5.0,0
-Maruti Eeco CNG 5 Seater AC,409999,35000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC,409999,35000,CNG,Manual,1196.0,61.7,5.0,4
 Maruti Alto K10 VXI,215000,80000,Petrol,Manual,998.0,67.05,5.0,1
 Mahindra XUV500 AT W10 AWD,1290000,50000,Diesel,Automatic,2179.0,140.0,7.0,2
 Maruti Alto K10 LXI,150000,80000,Petrol,Manual,998.0,67.1,5.0,1
@@ -836,11 +836,11 @@ Renault KWID RXT,265000,50000,Petrol,Manual,799.0,53.3,5.0,1
 Hyundai Verna 1.6 VGT CRDi,300000,80000,Diesel,Manual,1582.0,126.32,5.0,0
 Tata Tigor 1.05 Revotorq XZ,420000,110000,Diesel,Manual,1047.0,69.0,5.0,0
 Maruti Ertiga VDI,750000,14000,Diesel,Manual,1248.0,88.76,7.0,0
-Maruti Alto 800 CNG LXI,165000,60000,CNG,Manual,796.0,47.3,5.0,3
+Maruti Alto 800 CNG LXI,165000,60000,CNG,Manual,796.0,47.3,5.0,4
 Renault KWID RXT,290000,28000,Petrol,Manual,799.0,53.3,5.0,1
 Hyundai EON Era,160000,57000,Petrol,Manual,814.0,55.2,5.0,1
 Maruti Swift Dzire ZDI,695000,50000,Diesel,Manual,1248.0,74.0,5.0,0
-Maruti Wagon R Duo Lxi,231000,70000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R Duo Lxi,231000,70000,LPG,Manual,998.0,58.2,5.0,3
 Toyota Corolla Altis D-4D J,1050000,60000,Diesel,Manual,1364.0,87.2,5.0,0
 Hyundai i20 Sportz 1.2,400000,70000,Petrol,Manual,1197.0,82.85,5.0,1
 Hyundai i20 2015-2017 Sportz 1.2,500000,40000,Petrol,Manual,1197.0,81.83,5.0,1
@@ -1185,7 +1185,7 @@ Toyota Innova 2.5 G (Diesel) 7 Seater,750000,120000,Diesel,Manual,2494.0,100.6,7
 Maruti Alto LX,100000,40000,Petrol,Manual,796.0,46.3,5.0,1
 Renault KWID RXT Optional,395000,10000,Petrol,Manual,799.0,53.3,5.0,1
 Maruti Wagon R VXI Minor,200000,65000,Petrol,Manual,1061.0,67.0,5.0,1
-Maruti Eeco CNG 5 Seater AC BSIV,450000,10000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,450000,10000,CNG,Manual,1196.0,61.7,5.0,4
 Mahindra Verito 1.4 G4 BSIV,180000,110000,Petrol,Manual,1390.0,75.0,5.0,1
 Mahindra Bolero DI,190000,120000,Diesel,Manual,2523.0,63.0,7.0,0
 Maruti Eeco 5 Seater AC BSIV,310000,72000,Petrol,Manual,1196.0,73.0,5.0,1
@@ -1199,7 +1199,7 @@ Chevrolet Sail 1.2 LT ABS,330000,23000,Petrol,Manual,1199.0,82.4,5.0,1
 Maruti Omni MPI STD BSIV,166000,50000,Petrol,Manual,796.0,34.2,5.0,1
 Mahindra Xylo D4 BSIII,200000,300000,Diesel,Manual,2498.0,112.0,8.0,0
 Maruti Alto K10 2010-2014 VXI,140000,50000,Petrol,Manual,998.0,67.1,5.0,1
-Maruti Eeco CNG 5 Seater AC BSIV,370000,140000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,370000,140000,CNG,Manual,1196.0,61.7,5.0,4
 Hyundai Elite i20 Sportz Plus CVT BSIV,720000,16000,Petrol,Automatic,1197.0,81.86,5.0,2
 Hyundai i20 Active 1.4,500000,126000,Diesel,Manual,1396.0,88.73,5.0,0
 Hyundai Xcent 1.2 VTVT SX,570000,15000,Petrol,Manual,1197.0,81.86,5.0,1
@@ -1306,7 +1306,7 @@ Hyundai Xcent 1.2 CRDi SX,570000,80000,Diesel,Manual,1186.0,73.97,5.0,0
 Renault Duster 110PS Diesel RxZ,350000,105000,Diesel,Manual,1461.0,108.45,5.0,0
 Maruti Ertiga BSIV VXI,700000,227000,Petrol,Manual,1373.0,91.1,7.0,1
 Renault Duster 110PS Diesel RxZ,375000,100000,Diesel,Manual,1461.0,108.45,5.0,0
-Maruti Eeco CNG 5 Seater AC BSIV,450000,60000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,450000,60000,CNG,Manual,1196.0,61.7,5.0,4
 Hyundai i20 Magna 1.4 CRDi (Diesel),325000,70000,Diesel,Manual,1396.0,88.76,5.0,0
 Volkswagen Vento Diesel Comfortline,260000,120000,Diesel,Manual,1598.0,103.6,5.0,0
 Maruti Alto LXi BSIII,130000,80000,Petrol,Manual,796.0,46.3,5.0,1
@@ -1462,7 +1462,7 @@ Maruti Wagon R LXI Optional,350000,25000,Petrol,Manual,998.0,67.04,5.0,1
 Maruti Swift Dzire LDI Optional,459999,80000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Alto LXi,185000,60000,Petrol,Manual,796.0,46.3,5.0,1
 Volkswagen Polo Diesel Highline 1.2L,550000,38000,Diesel,Manual,1199.0,73.9,5.0,0
-Maruti Wagon R Duo Lxi,300000,100000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R Duo Lxi,300000,100000,LPG,Manual,998.0,58.2,5.0,3
 Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,900000,110000,Diesel,Manual,2494.0,102.0,8.0,0
 Honda BR-V i-DTEC S MT,900000,92000,Diesel,Manual,1498.0,98.6,7.0,0
 Mahindra Bolero 2011-2019 Plus AC,550000,180000,Diesel,Manual,2523.0,62.1,9.0,0
@@ -1606,7 +1606,7 @@ Hyundai Creta 1.6 CRDi SX Option,1250000,90000,Diesel,Manual,1582.0,126.2,5.0,0
 Honda Aord 2.4 M/T,600000,144030,Petrol,Manual,2354.0,177.6,5.0,0
 Honda City i DTEC VX,819999,200000,Diesel,Manual,1498.0,98.6,5.0,0
 Hyundai i20 2015-2017 Asta Option 1.2,650000,29000,Petrol,Manual,1197.0,81.83,5.0,1
-Maruti Wagon R LXI DUO BSIII,105000,90000,LPG,Manual,1061.0,57.5,5.0,4
+Maruti Wagon R LXI DUO BSIII,105000,90000,LPG,Manual,1061.0,57.5,5.0,3
 Mahindra Renault Logan 1.5 Diesel DLSX,200000,176000,Diesel,Manual,1461.0,66.0,5.0,0
 Tata Indigo CS LX (TDI) BS III,200000,150000,Diesel,Manual,1396.0,69.0,5.0,0
 Maruti Omni E MPI STD BS IV,220000,90000,Petrol,Manual,796.0,34.2,8.0,1
@@ -1851,7 +1851,7 @@ Maruti Swift Dzire VDI,660000,55000,Diesel,Manual,1248.0,74.0,5.0,0
 Ford Fiesta Classic 1.6 Duratec LXI,256000,90000,Petrol,Manual,1596.0,99.6,5.0,1
 Renault KWID 1.0 RXT Optional,409999,35000,Petrol,Manual,999.0,67.0,5.0,1
 Toyota Fortuner 4x4 MT,1888000,120000,Diesel,Manual,2982.0,168.5,7.0,0
-Hyundai Santro Xing GLS LPG,250000,100000,LPG,Manual,1086.0,62.1,5.0,4
+Hyundai Santro Xing GLS LPG,250000,100000,LPG,Manual,1086.0,62.1,5.0,3
 Honda Civic 1.8 V AT,280000,40000,Petrol,Automatic,1799.0,130.0,5.0,2
 Mahindra Xylo D2,300000,100000,Diesel,Manual,2489.0,95.0,8.0,0
 Tata Safari Storme LX,900000,120000,Diesel,Manual,2179.0,147.94,5.0,0
@@ -2044,7 +2044,7 @@ Mahindra Bolero XL 10 Seater Non AC,300000,120000,Diesel,Manual,2523.0,63.0,7.0,
 Hyundai Elantra CRDi SX,900000,145000,Diesel,Manual,1582.0,126.2,5.0,0
 Mahindra XUV500 W9 2WD,1530000,40000,Diesel,Manual,2179.0,138.0,7.0,0
 Maruti Baleno Delta 1.3,590000,110000,Diesel,Manual,1248.0,74.0,5.0,0
-Maruti Wagon R LXI DUO BSIII,170000,112000,LPG,Manual,1061.0,57.5,5.0,4
+Maruti Wagon R LXI DUO BSIII,170000,112000,LPG,Manual,1061.0,57.5,5.0,3
 Audi A3 35 TDI Premium Plus,2600000,70000,Diesel,Automatic,1968.0,143.0,5.0,2
 Maruti Ritz VDi,475000,110000,Diesel,Manual,1248.0,73.94,5.0,0
 Hyundai Grand i10 1.2 CRDi Asta,700000,29000,Diesel,Manual,1186.0,73.97,5.0,0
@@ -2099,7 +2099,7 @@ Maruti Alto K10 2010-2014 VXI,252000,48000,Petrol,Manual,998.0,67.1,5.0,1
 Maruti Swift VDI,280000,70000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Swift VXI 2018,509999,70000,Petrol,Manual,1197.0,81.8,5.0,1
 Mahindra Scorpio 1.99 S6 Plus,1050000,58000,Diesel,Manual,1997.0,120.0,7.0,0
-Maruti Wagon R LXI DUO BSIII,200000,40000,LPG,Manual,1061.0,57.5,5.0,4
+Maruti Wagon R LXI DUO BSIII,200000,40000,LPG,Manual,1061.0,57.5,5.0,3
 Maruti Zen LXI,60000,90000,Petrol,Manual,993.0,60.0,5.0,1
 Mahindra Xylo E8 ABS Airbag,320000,40000,Diesel,Manual,2498.0,112.0,7.0,0
 Mahindra Scorpio LX,520000,110000,Diesel,Manual,2179.0,120.0,9.0,0
@@ -2237,7 +2237,7 @@ Toyota Innova 2.5 G (Diesel) 8 Seater,1000000,65000,Diesel,Manual,2494.0,100.6,8
 Maruti Wagon R VXI 1.2,490000,10000,Petrol,Manual,1197.0,81.8,5.0,1
 Hyundai i10 Sportz,150000,80000,Petrol,Manual,1197.0,78.9,5.0,1
 Maruti Ertiga VDI,600000,184000,Diesel,Manual,1248.0,88.76,7.0,0
-Maruti Wagon R CNG LXI,270000,80000,CNG,Manual,998.0,58.33,5.0,3
+Maruti Wagon R CNG LXI,270000,80000,CNG,Manual,998.0,58.33,5.0,4
 Maruti Zen LXi - BS III,60000,70000,Petrol,Manual,993.0,60.0,5.0,1
 Maruti SX4 Zxi with Leather BSIII,150000,89000,Petrol,Manual,1586.0,104.68,5.0,1
 Honda Brio Exclusive Edition,335000,33033,Petrol,Manual,1198.0,86.8,5.0,1
@@ -2398,10 +2398,10 @@ Maruti Alto 800 LXI,275000,58000,Petrol,Manual,796.0,47.3,5.0,1
 Toyota Innova 2.5 VX 8 STR BSIV,750000,120000,Diesel,Manual,2494.0,102.0,8.0,0
 Chevrolet Aveo U-VA 1.2,65000,30000,Petrol,Manual,1150.0,76.0,5.0,1
 Tata Safari Storme EX,850000,162000,Diesel,Manual,2179.0,147.94,7.0,0
-Maruti Wagon R LXI CNG,300000,50000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,300000,50000,CNG,Manual,998.0,58.16,5.0,4
 Hyundai i20 1.2 Magna Executive,555000,25000,Petrol,Manual,1197.0,81.83,5.0,1
 Mahindra Scorpio 1.99 S6 Plus,825000,60000,Diesel,Manual,1997.0,120.0,7.0,0
-Hyundai Santro Xing GLS LPG,150000,70000,LPG,Manual,1086.0,62.1,5.0,4
+Hyundai Santro Xing GLS LPG,150000,70000,LPG,Manual,1086.0,62.1,5.0,3
 Maruti Swift Dzire VDi,185000,138000,Diesel,Manual,1248.0,73.9,5.0,0
 Hyundai i10 Magna,180000,70000,Petrol,Manual,1197.0,78.9,5.0,1
 Maruti Alto LXi,160000,48000,Petrol,Manual,796.0,46.3,5.0,1
@@ -2428,21 +2428,21 @@ Hyundai Verna 1.6 CRDI,580000,56000,Diesel,Manual,1582.0,126.3,5.0,0
 Datsun RediGO T Option,290000,30000,Petrol,Manual,799.0,53.64,5.0,1
 Hyundai Grand i10 Magna,380000,50000,Petrol,Manual,1197.0,82.0,5.0,1
 Ford Figo Diesel EXI,200000,120000,Diesel,Manual,1399.0,68.0,5.0,0
-Maruti Wagon R LXI CNG,390000,40000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,390000,40000,CNG,Manual,998.0,58.16,5.0,4
 Hyundai Grand i10 1.2 Kappa Asta,500000,27500,Petrol,Manual,1197.0,81.86,5.0,1
 Maruti Ertiga VDI,520000,73000,Diesel,Manual,1248.0,88.76,7.0,0
 Maruti Swift Dzire VDI,650000,75000,Diesel,Manual,1248.0,74.0,5.0,0
 Renault KWID Climber 1.0 MT,380000,5000,Petrol,Manual,999.0,67.0,5.0,1
-Maruti Wagon R LXI LPG BSIV,275000,50000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R LXI LPG BSIV,275000,50000,LPG,Manual,998.0,58.2,5.0,3
 Maruti Swift Dzire VDI,520000,70000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Swift Dzire VDI,610000,60000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Wagon R LXI,85000,110000,Petrol,Manual,998.0,67.1,5.0,1
 Renault Duster 85PS Diesel RxL Optional,490000,95000,Diesel,Manual,1461.0,83.8,5.0,0
 Hyundai EON Era Plus,229999,34000,Petrol,Manual,814.0,55.2,5.0,1
 Hyundai Grand i10 Sportz,411000,25000,Petrol,Manual,1197.0,82.0,5.0,1
-Maruti Eeco CNG 5 Seater AC BSIV,362000,120000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,362000,120000,CNG,Manual,1196.0,61.7,5.0,4
 Toyota Etios Cross 1.4L GD,550000,31000,Diesel,Manual,1364.0,67.06,5.0,0
-Maruti Wagon R LXI CNG,459999,70000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,459999,70000,CNG,Manual,998.0,58.16,5.0,4
 Maruti Ritz VXi (ABS) BS IV,190000,47000,Petrol,Manual,1197.0,85.8,5.0,1
 Hyundai Santro Magna AMT BSIV,499000,5000,Petrol,Automatic,1086.0,68.0,5.0,2
 Maruti Eeco 7 Seater Standard BSIV,358000,44000,Petrol,Manual,1196.0,73.0,7.0,1
@@ -2485,13 +2485,13 @@ Renault KWID RXL,380000,15000,Petrol,Manual,799.0,53.3,5.0,1
 Mahindra Bolero Power Plus ZLX,740000,14000,Diesel,Manual,1493.0,70.0,7.0,0
 Datsun RediGO T Option,260000,35000,Petrol,Manual,799.0,53.64,5.0,1
 Maruti Alto K10 VXI,320000,32000,Petrol,Manual,998.0,67.05,5.0,1
-Maruti Wagon R LXI CNG,211000,90000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,211000,90000,CNG,Manual,998.0,58.16,5.0,4
 Maruti Swift Dzire VXI 1.2 BS IV,650000,35000,Petrol,Manual,1197.0,81.8,5.0,1
 Maruti Swift Dzire VDI,651000,32500,Diesel,Manual,1248.0,74.02,5.0,0
 Maruti Alto K10 VXI AGS,380000,14000,Petrol,Automatic,998.0,67.05,5.0,2
 Chevrolet Beat Diesel LT,160000,70000,Diesel,Manual,936.0,56.3,5.0,0
 Hyundai Verna VTVT 1.6 AT SX Option,1270000,20000,Petrol,Automatic,1591.0,121.3,5.0,2
-Maruti Wagon R Duo Lxi,300000,300000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R Duo Lxi,300000,300000,LPG,Manual,998.0,58.2,5.0,3
 Maruti Swift VDI Optional,405000,100000,Diesel,Manual,1248.0,74.0,5.0,0
 Mahindra XUV500 W8 2WD,850000,64800,Diesel,Manual,2179.0,140.0,7.0,0
 Mahindra Bolero Power Plus ZLX,680000,90000,Diesel,Manual,1493.0,70.0,7.0,0
@@ -2500,7 +2500,7 @@ Hyundai Verna 1.4 CRDi,525000,248000,Diesel,Manual,1396.0,88.7,5.0,0
 Toyota Innova 2.5 VX (Diesel) 7 Seater,1019999,60000,Diesel,Manual,2494.0,100.6,7.0,0
 Toyota Innova 2.5 G2,245000,120000,Diesel,Manual,2494.0,102.0,8.0,0
 Hyundai Elantra CRDi SX,869999,120000,Diesel,Manual,1582.0,126.2,5.0,0
-Maruti Wagon R Duo Lxi,160000,66444,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R Duo Lxi,160000,66444,LPG,Manual,998.0,58.2,5.0,3
 Maruti Vitara Brezza VDi Option,700000,86000,Diesel,Manual,1248.0,88.5,5.0,0
 Nissan Sunny Diesel XV,300000,90000,Diesel,Manual,1461.0,84.8,5.0,0
 Honda Civic 1.8 S AT,175000,218463,Petrol,Automatic,1799.0,130.0,5.0,2
@@ -2525,12 +2525,12 @@ Maruti Wagon R LXI,55000,167000,Petrol,Manual,998.0,67.1,5.0,1
 Hyundai i20 2015-2017 Asta 1.4 CRDi,611000,77000,Diesel,Manual,1396.0,88.73,5.0,0
 Hyundai Verna 1.4 CRDi,459999,110000,Diesel,Manual,1396.0,88.7,5.0,0
 Ford Fiesta EXi 1.4 TDCi Ltd,275000,120000,Diesel,Manual,1399.0,68.0,5.0,0
-Hyundai Santro Xing GLS CNG,185000,170000,CNG,Manual,1086.0,62.1,5.0,3
+Hyundai Santro Xing GLS CNG,185000,170000,CNG,Manual,1086.0,62.1,5.0,4
 Hyundai Verna 1.6 SX,390000,100000,Diesel,Manual,1582.0,126.32,5.0,0
 Chevrolet Spark 1.0 LT,72000,40000,Petrol,Manual,995.0,62.0,5.0,1
 Tata Indica V2 DL BSIII,90000,50000,Diesel,Manual,1396.0,52.8,5.0,0
 Toyota Etios GD,500000,125000,Diesel,Manual,1364.0,67.05,5.0,0
-Maruti Wagon R LXI CNG,200000,137000,CNG,Manual,998.0,58.2,5.0,3
+Maruti Wagon R LXI CNG,200000,137000,CNG,Manual,998.0,58.2,5.0,4
 Mahindra XUV500 W9 BSIV,1575000,18000,Diesel,Manual,2179.0,152.87,7.0,0
 Hyundai Grand i10 Sportz,511000,30000,Petrol,Manual,1197.0,82.0,5.0,1
 Fiat Grande Punto 1.4 Emotion,150000,55000,Petrol,Manual,1368.0,88.7,5.0,1
@@ -2639,7 +2639,7 @@ Hyundai Santro Xing (Non-AC),184000,15000,Petrol,Manual,1086.0,62.1,5.0,1
 Hyundai i20 2015-2017 Sportz 1.2,440000,50000,Petrol,Manual,1197.0,81.83,5.0,1
 Hyundai i20 Active 1.4 SX,650000,80000,Diesel,Manual,1396.0,88.73,5.0,0
 Mahindra TUV 300 T8 AMT,660000,50000,Diesel,Automatic,1493.0,100.0,7.0,2
-Maruti Eeco CNG 5 Seater AC BSIV,380000,30000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,380000,30000,CNG,Manual,1196.0,61.7,5.0,4
 Toyota Corolla Altis Diesel D4DG,415000,125000,Diesel,Manual,1364.0,87.2,5.0,0
 Hyundai i10 Magna 1.1L,225000,110000,Petrol,Manual,1086.0,68.05,5.0,1
 Maruti Ertiga VDI,600000,30000,Diesel,Manual,1248.0,88.76,7.0,0
@@ -2649,7 +2649,7 @@ Hyundai Grand i10 Magna,400000,80000,Petrol,Manual,1197.0,82.0,5.0,1
 Maruti Wagon R LX,110000,110000,Petrol,Manual,998.0,67.1,5.0,1
 Tata Indica Vista TDI LS,119000,95000,Diesel,Manual,1405.0,70.0,5.0,0
 Honda Amaze S i-Dtech,600000,25000,Diesel,Manual,1498.0,98.6,5.0,0
-Maruti Zen Estilo LXI Green (CNG),200000,80000,CNG,Manual,998.0,67.1,5.0,3
+Maruti Zen Estilo LXI Green (CNG),200000,80000,CNG,Manual,998.0,67.1,5.0,4
 Tata Zest Quadrajet 1.3 XMS,280000,60000,Diesel,Manual,1248.0,88.7,5.0,0
 Skoda Rapid 1.6 MPI Ambition,375000,100000,Petrol,Manual,1598.0,105.0,5.0,1
 Datsun GO Plus T Option BSIV,350000,50000,Petrol,Manual,1198.0,67.0,7.0,1
@@ -2667,7 +2667,7 @@ Hyundai Santro Xing GLS,200000,90000,Petrol,Manual,1086.0,62.1,5.0,1
 Maruti Vitara Brezza VDi AMT,860000,6500,Diesel,Automatic,1248.0,88.5,5.0,2
 Maruti Baleno Delta 1.3,600000,60000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Alto K10 VXI,265000,110000,Petrol,Manual,998.0,67.05,5.0,1
-Tata Indica V2 Emax CNG GLX,155000,60000,CNG,Manual,1193.0,55.23,5.0,3
+Tata Indica V2 Emax CNG GLX,155000,60000,CNG,Manual,1193.0,55.23,5.0,4
 Maruti S-Cross 2017-2020 Delta DDiS 200 SH,900000,60000,Diesel,Manual,1248.0,88.5,5.0,0
 Maruti Ertiga VDI,650000,170000,Diesel,Manual,1248.0,88.76,7.0,0
 Maruti 800 EX,70000,220000,Petrol,Manual,796.0,37.0,4.0,1
@@ -2676,7 +2676,7 @@ Hyundai EON Magna Plus,200000,57000,Petrol,Manual,814.0,55.2,5.0,1
 Hyundai i10 Magna 1.1L,300000,100000,Petrol,Manual,1086.0,68.05,5.0,1
 Hyundai Verna 1.6 VTVT S,650000,40000,Petrol,Manual,1591.0,121.3,5.0,1
 Maruti Alto 800 LXI,267000,40000,Petrol,Manual,796.0,47.3,5.0,1
-Maruti Wagon R LXI CNG,450000,50000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,450000,50000,CNG,Manual,998.0,58.16,5.0,4
 Hyundai Grand i10 Sportz,400000,90000,Petrol,Manual,1197.0,82.0,5.0,1
 Mahindra Xylo D4 BSIV,310000,86000,Diesel,Manual,2498.0,112.0,8.0,0
 Tata Nano Cx,70000,15000,Petrol,Manual,624.0,35.0,4.0,1
@@ -2912,7 +2912,7 @@ Maruti Swift Dzire VDI,500000,84000,Diesel,Manual,1248.0,74.0,5.0,0
 Hyundai i20 2015-2017 Asta Option 1.4 CRDi,875000,40000,Diesel,Manual,1396.0,88.73,5.0,0
 Tata Indica Vista TDI LX,210000,100000,Diesel,Manual,1405.0,70.0,5.0,0
 Tata Indica Vista TDI LX,210000,120000,Diesel,Manual,1405.0,70.0,5.0,0
-Hyundai Santro Xing GLS LPG,200000,80000,LPG,Manual,1086.0,62.1,5.0,4
+Hyundai Santro Xing GLS LPG,200000,80000,LPG,Manual,1086.0,62.1,5.0,3
 Maruti Alto LX,175000,175000,Petrol,Manual,796.0,46.3,5.0,1
 Hyundai i20 1.2 Asta Option,700000,30000,Petrol,Manual,1197.0,81.83,5.0,1
 Hyundai i20 1.2 Asta Option,700000,30000,Petrol,Manual,1197.0,81.83,5.0,1
@@ -2944,7 +2944,7 @@ Volkswagen Ameo 1.5 TDI Comfortline,550000,50000,Diesel,Manual,1498.0,108.62,5.0
 Mahindra Bolero 2011-2019 SLX,710000,70000,Diesel,Manual,2523.0,62.1,7.0,0
 Mahindra Bolero 2011-2019 SLX,700000,70000,Diesel,Manual,2523.0,62.1,7.0,0
 Mahindra Bolero 2011-2019 SLE BSIII,550000,120000,Diesel,Manual,2523.0,62.1,7.0,0
-Hyundai i10 Sportz 1.1L LPG,375000,60000,LPG,Manual,1086.0,68.05,5.0,4
+Hyundai i10 Sportz 1.1L LPG,375000,60000,LPG,Manual,1086.0,68.05,5.0,3
 Tata Safari DICOR 2.2 EX 4x2,600000,60000,Diesel,Manual,2179.0,138.03,7.0,0
 Maruti Swift VDI,380000,76000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Ritz VDi,300000,70000,Diesel,Manual,1248.0,73.94,5.0,0
@@ -2952,7 +2952,7 @@ Maruti 800 DX,45000,80000,Petrol,Manual,796.0,37.0,4.0,1
 Toyota Innova 2.5 G4 Diesel 8-seater,450000,210000,Diesel,Manual,2494.0,102.0,8.0,0
 Mahindra Bolero Power Plus Plus AC BSIV PS,475000,128000,Diesel,Manual,2523.0,63.0,9.0,0
 Renault Triber RXZ BSIV,650000,5000,Petrol,Manual,999.0,72.0,7.0,1
-Maruti Wagon R LXI LPG BSIV,200000,70000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R LXI LPG BSIV,200000,70000,LPG,Manual,998.0,58.2,5.0,3
 Maruti Swift VDI,350000,85000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Vitara Brezza ZDi AMT,911999,25000,Diesel,Automatic,1248.0,88.5,5.0,2
 Maruti Swift Dzire VXI 1.2,650000,15000,Petrol,Manual,1197.0,81.8,5.0,1
@@ -3097,7 +3097,7 @@ Hyundai i20 Active 1.4 SX with AVN,715000,60000,Diesel,Manual,1396.0,88.73,5.0,0
 Tata Indigo CS eVX,227999,60000,Diesel,Manual,1396.0,69.01,5.0,0
 Tata Bolt Quadrajet XE,450000,50000,Diesel,Manual,1248.0,74.0,5.0,0
 Chevrolet Beat Diesel LT,200000,40000,Diesel,Manual,936.0,56.3,5.0,0
-Maruti Wagon R LXI CNG,400000,110000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,400000,110000,CNG,Manual,998.0,58.16,5.0,4
 Maruti Ertiga SHVS VDI,725000,110000,Diesel,Manual,1248.0,88.5,7.0,0
 Ford Figo Diesel Titanium,300000,80000,Diesel,Manual,1399.0,68.05,5.0,0
 Toyota Innova 2.5 GX (Diesel) 8 Seater,1151000,69500,Diesel,Manual,2494.0,100.6,8.0,0
@@ -3113,7 +3113,7 @@ Toyota Innova 2.5 GX (Diesel) 7 Seater,950000,80000,Diesel,Manual,2494.0,100.6,7
 Mahindra TUV 300 T8,430000,110000,Diesel,Manual,1493.0,100.0,7.0,0
 Ford Endeavour 3.2 Titanium AT 4X4,2100000,80000,Diesel,Automatic,3198.0,197.0,7.0,2
 Hyundai Grand i10 1.2 CRDi Sportz,540000,30000,Diesel,Manual,1186.0,73.97,5.0,0
-Hyundai Santro Xing GL LPG,175000,60000,LPG,Manual,1086.0,63.0,5.0,4
+Hyundai Santro Xing GL LPG,175000,60000,LPG,Manual,1086.0,63.0,5.0,3
 Hyundai Creta 1.6 CRDi AT SX Plus,1150000,44000,Diesel,Automatic,1582.0,126.2,5.0,2
 Maruti Alto 800 LXI,350000,5000,Petrol,Manual,796.0,47.3,5.0,1
 Hyundai Elite i20 Petrol Asta Option,690000,18000,Petrol,Manual,1197.0,81.86,5.0,1
@@ -3202,7 +3202,7 @@ Hyundai i10 Era,130000,30000,Petrol,Manual,1086.0,68.05,5.0,1
 Chevrolet Enjoy 1.3 TCDi LTZ 8,500000,198000,Diesel,Manual,1248.0,73.74,8.0,0
 Hyundai i20 Asta (o),350000,80000,Petrol,Manual,1197.0,80.0,5.0,1
 Maruti Baleno Delta Automatic,685000,19000,Petrol,Automatic,1197.0,83.1,5.0,2
-Maruti Eeco CNG 5 Seater AC BSIV,399000,5000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,399000,5000,CNG,Manual,1196.0,61.7,5.0,4
 Hyundai Grand i10 1.2 Kappa Magna BSIV,525000,10000,Petrol,Manual,1197.0,81.86,5.0,1
 Maruti Ertiga BSIV VXI,765000,40000,Petrol,Manual,1373.0,91.1,7.0,1
 Maruti Swift VDI,450000,97000,Diesel,Manual,1248.0,74.0,5.0,0
@@ -3356,7 +3356,7 @@ Mercedes-Benz E-Class E 250 Elegance,1190000,80000,Petrol,Automatic,2497.0,204.0
 Ford EcoSport 1.5 Diesel Titanium Plus BSIV,900000,19000,Diesel,Manual,1498.0,98.96,5.0,0
 Hyundai i20 Sportz Option 1.4 CRDi,600000,40000,Diesel,Manual,1396.0,88.73,5.0,0
 Mahindra Scorpio S10 7 Seater,1100000,52269,Diesel,Manual,2179.0,120.0,7.0,0
-Maruti Omni LPG CARGO BSIII W IMMOBILISER,120000,170000,LPG,Manual,796.0,32.8,5.0,4
+Maruti Omni LPG CARGO BSIII W IMMOBILISER,120000,170000,LPG,Manual,796.0,32.8,5.0,3
 Hyundai i20 Magna,229999,60000,Petrol,Manual,1197.0,80.0,5.0,1
 Honda Amaze i-VTEC Privilege Edition,570000,15780,Petrol,Manual,1198.0,86.7,5.0,1
 Hyundai Verna 1.6 SX,575000,106000,Diesel,Manual,1582.0,126.32,5.0,0
@@ -3380,7 +3380,7 @@ Tata Tigor 1.2 Revotron XT,550000,10000,Petrol,Manual,1199.0,84.0,5.0,1
 Mahindra XUV500 W8 AWD,720000,150000,Diesel,Manual,2179.0,140.0,7.0,0
 Nissan Micra XE,110000,110000,Petrol,Manual,1198.0,75.0,5.0,1
 Maruti Alto 800 VXI,310000,10000,Petrol,Manual,796.0,47.3,5.0,1
-Maruti Wagon R LXI LPG BSIV,150000,70000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R LXI LPG BSIV,150000,70000,LPG,Manual,998.0,58.2,5.0,3
 Tata Indica Vista TDI LX,260000,46000,Diesel,Manual,1405.0,70.0,5.0,0
 Hyundai Aent GLS,55000,120000,Petrol,Manual,1495.0,94.0,5.0,1
 Maruti Swift VDI,450000,108800,Diesel,Manual,1248.0,74.0,5.0,0
@@ -3633,7 +3633,7 @@ Renault Duster 110PS Diesel RxZ,320000,110000,Diesel,Manual,1461.0,108.45,5.0,0
 Tata Manza Aura (ABS) Quadrajet BS IV,149000,148000,Diesel,Manual,1248.0,88.8,5.0,0
 Mahindra Scorpio S11 BSIV,1500000,40000,Diesel,Manual,2179.0,140.0,7.0,0
 Hyundai Aent Executive,180000,70000,Petrol,Manual,1495.0,93.7,5.0,1
-Hyundai Santro Xing GLS LPG,185000,70000,LPG,Manual,1086.0,62.1,5.0,4
+Hyundai Santro Xing GLS LPG,185000,70000,LPG,Manual,1086.0,62.1,5.0,3
 Maruti 800 AC,65000,40000,Petrol,Manual,796.0,37.0,4.0,1
 Tata Indigo LX,130000,120000,Diesel,Manual,1405.0,70.0,5.0,0
 Ford Fiesta Classic 1.4 Duratorq CLXI,330000,60000,Diesel,Manual,1399.0,67.0,5.0,0
@@ -3678,7 +3678,7 @@ Mahindra Bolero Power Plus SLE,735000,70000,Diesel,Manual,1493.0,70.0,7.0,0
 Toyota Etios Liva GD,325000,120000,Diesel,Manual,1364.0,67.06,5.0,0
 Chevrolet Tavera LS B3 10 Seats BSII,225000,100000,Diesel,Manual,2499.0,80.0,10.0,0
 Tata Zest Quadrajet 1.3 XM,350000,90000,Diesel,Manual,1248.0,88.7,5.0,0
-Maruti Wagon R LXI DUO BSIII,110000,120000,LPG,Manual,1061.0,57.5,5.0,4
+Maruti Wagon R LXI DUO BSIII,110000,120000,LPG,Manual,1061.0,57.5,5.0,3
 Maruti Zen Estilo LXI BSIII,85000,160000,Petrol,Manual,998.0,67.1,5.0,1
 Toyota Corolla AE,150000,100000,Petrol,Manual,1794.0,125.0,5.0,1
 Maruti Swift Dzire VDi,225000,120000,Diesel,Manual,1248.0,73.9,5.0,0
@@ -3704,10 +3704,10 @@ Ford Fiesta 1.4 Duratorq ZXI,180000,114321,Diesel,Manual,1399.0,68.0,5.0,0
 Tata Indica Vista TDI LX,200000,120000,Diesel,Manual,1405.0,70.0,5.0,0
 Mahindra Scorpio VLX 2WD AIRBAG AT BSIV,575000,120000,Diesel,Manual,2179.0,120.0,8.0,0
 Toyota Etios Liva GD,415000,146000,Diesel,Manual,1364.0,67.06,5.0,0
-Hyundai i10 Magna LPG,350000,30000,LPG,Manual,1086.0,68.05,5.0,4
+Hyundai i10 Magna LPG,350000,30000,LPG,Manual,1086.0,68.05,5.0,3
 Hyundai EON D Lite Plus,350000,20000,Petrol,Manual,814.0,55.2,5.0,1
 Toyota Platinum Etios 1.4 GD,632000,150000,Diesel,Manual,1364.0,67.05,5.0,0
-Maruti Eeco CNG 5 Seater AC BSIV,325000,70000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,325000,70000,CNG,Manual,1196.0,61.7,5.0,4
 Hyundai Elantra SX,511000,90000,Petrol,Manual,1797.0,147.5,5.0,1
 Honda City 1.5 V MT,300000,100000,Petrol,Manual,1497.0,118.0,5.0,1
 Maruti Wagon R LXI,70000,188000,Petrol,Manual,998.0,67.1,5.0,1
@@ -3734,7 +3734,7 @@ Volvo V40 D3 R-Design,2475000,2000,Diesel,Automatic,1984.0,150.0,5.0,2
 Hyundai i20 1.2 Asta,730000,37333,Petrol,Manual,1197.0,81.83,5.0,1
 Maruti Ertiga VDI,450000,15000,Diesel,Manual,1248.0,88.76,7.0,0
 Hyundai Sonata 2.4 GDi MT,550000,330000,Petrol,Manual,2359.0,198.25,5.0,0
-Maruti Wagon R LXI CNG,420000,60000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,420000,60000,CNG,Manual,998.0,58.16,5.0,4
 Toyota Etios GD,509999,80000,Diesel,Manual,1364.0,67.05,5.0,0
 Toyota Innova 2.5 G (Diesel) 7 Seater,905000,110000,Diesel,Manual,2494.0,100.6,7.0,0
 Maruti Alto LX,140000,72000,Petrol,Manual,796.0,46.3,5.0,1
@@ -3787,11 +3787,11 @@ Mahindra XUV500 W8 2WD,925000,48000,Diesel,Manual,2179.0,140.0,7.0,0
 Maruti Ertiga BSIV ZXI Plus,750000,20000,Petrol,Manual,1373.0,91.1,7.0,1
 Hyundai Verna CRDi 1.6 AT SX Option,1150000,49000,Diesel,Automatic,1582.0,126.2,5.0,2
 Datsun GO Plus T BSIV,260000,35000,Petrol,Manual,1198.0,67.0,7.0,1
-Maruti Alto 800 CNG LXI,260000,67000,CNG,Manual,796.0,40.3,4.0,3
+Maruti Alto 800 CNG LXI,260000,67000,CNG,Manual,796.0,40.3,4.0,4
 Maruti Swift Dzire Vdi BSIV,347000,80600,Diesel,Manual,1248.0,73.9,5.0,0
 Hyundai EON Magna Optional,195000,58609,Petrol,Manual,814.0,55.2,5.0,1
 Fiat Punto Pure 1.2L FIRE,265000,33003,Petrol,Manual,1172.0,67.0,5.0,1
-Maruti Wagon R LXI CNG,320000,43000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,320000,43000,CNG,Manual,998.0,58.16,5.0,4
 Hyundai i20 Magna 1.2,590000,16500,Petrol,Manual,1197.0,81.83,5.0,1
 Toyota Innova 2.5 GX 8 STR BSIV,650000,138000,Diesel,Manual,2494.0,102.0,8.0,0
 Mahindra Scorpio 2009-2014 EX 9S BSIII,509999,165500,Diesel,Manual,2523.0,75.0,9.0,0
@@ -3833,7 +3833,7 @@ Renault Pulse RxL,315000,85000,Diesel,Manual,1461.0,63.12,5.0,0
 Mahindra Thar CRDe,875000,25000,Diesel,Manual,2498.0,105.0,6.0,0
 Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,400000,170000,Diesel,Manual,2494.0,102.0,8.0,0
 Mahindra Scorpio EX,540000,110000,Diesel,Manual,2523.0,75.0,8.0,0
-Maruti Wagon R LXI CNG,350000,60000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,350000,60000,CNG,Manual,998.0,58.16,5.0,4
 Hyundai Verna 1.6 SX CRDi (O),360000,80000,Diesel,Manual,1582.0,126.32,5.0,0
 Maruti Wagon R VXI BS IV,300000,31000,Petrol,Manual,998.0,67.04,5.0,1
 Hyundai Grand i10 CRDi Sportz,350000,100000,Diesel,Manual,1120.0,70.0,5.0,0
@@ -3881,7 +3881,7 @@ Tata Zest Revotron 1.2T XMS,459999,35000,Petrol,Manual,1193.0,88.7,5.0,1
 Fiat Avventura MULTIJET Emotion,450000,120000,Diesel,Manual,1248.0,91.72,5.0,0
 Maruti Swift Dzire AMT VXI,650000,10000,Petrol,Automatic,1197.0,81.8,5.0,2
 Hyundai i20 Active 1.2 S,600000,15000,Petrol,Manual,1197.0,81.86,5.0,1
-Maruti Alto 800 CNG LXI,178000,70000,CNG,Manual,796.0,47.3,5.0,3
+Maruti Alto 800 CNG LXI,178000,70000,CNG,Manual,796.0,47.3,5.0,4
 Maruti Alto 800 LXI,300000,5000,Petrol,Manual,796.0,47.3,5.0,1
 Maruti Alto LXi,150000,40000,Petrol,Manual,796.0,46.3,5.0,1
 Hyundai Elite i20 Petrol Magna Exective,590000,10000,Petrol,Manual,1197.0,81.86,5.0,1
@@ -3921,7 +3921,7 @@ Tata Indigo CS LS (TDI) BS III,114999,120000,Diesel,Manual,1396.0,69.0,5.0,0
 Tata Tiago 1.2 Revotron XZ,399000,40000,Petrol,Manual,1199.0,84.0,5.0,1
 Tata Indica V2 Turbomax DLS BS IV,275000,90000,Diesel,Manual,1405.0,71.0,5.0,0
 Hyundai i20 1.4 CRDi Magna,340000,80000,Diesel,Manual,1396.0,90.0,5.0,0
-Hyundai EON LPG Era Plus,222000,120000,LPG,Manual,814.0,55.2,5.0,4
+Hyundai EON LPG Era Plus,222000,120000,LPG,Manual,814.0,55.2,5.0,3
 Mahindra Ssangyong Rexton RX7,850000,200000,Diesel,Automatic,2696.0,184.0,7.0,2
 Tata Indica V2 DLS,70000,110000,Diesel,Manual,1396.0,53.5,5.0,0
 Tata Tiago 1.2 Revotron XT,430000,38000,Petrol,Manual,1199.0,84.0,5.0,1
@@ -4409,7 +4409,7 @@ Maruti Alto K10 VXI,300000,40000,Petrol,Manual,998.0,67.05,5.0,1
 Honda City 1.5 S Inspire,350000,120000,Petrol,Manual,1497.0,118.0,5.0,1
 Maruti Vitara Brezza ZDi,892000,10000,Diesel,Manual,1248.0,88.5,5.0,0
 Fiat Grande Punto Sport 90,285000,70000,Diesel,Manual,1248.0,92.0,5.0,0
-Hyundai i10 Magna LPG,300000,60000,LPG,Manual,1086.0,68.05,5.0,4
+Hyundai i10 Magna LPG,300000,60000,LPG,Manual,1086.0,68.05,5.0,3
 Maruti Ciaz VDI SHVS,620000,90000,Diesel,Manual,1248.0,88.5,5.0,0
 Maruti Vitara Brezza ZDi,750000,90000,Diesel,Manual,1248.0,88.5,5.0,0
 Maruti Alto 800 LXI,270000,35000,Petrol,Manual,796.0,47.3,5.0,1
@@ -4889,7 +4889,7 @@ Maruti Swift LXI Option,459999,12000,Petrol,Manual,1197.0,81.8,5.0,1
 Maruti Vitara Brezza ZDi,800000,15381,Diesel,Manual,1248.0,88.5,5.0,0
 Mahindra Bolero SLX 4WD BSIII,310000,5000,Diesel,Manual,2523.0,63.0,7.0,0
 Nissan Terrano XV Premium 110 PS,475000,40000,Diesel,Manual,1461.0,108.5,5.0,0
-Maruti Wagon R LXI CNG,310000,35000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,310000,35000,CNG,Manual,998.0,58.16,5.0,4
 Maruti Alto K10 LXI,350000,10000,Petrol,Manual,998.0,67.05,5.0,1
 Mahindra XUV500 W10 AWD,1800000,10000,Diesel,Manual,2179.0,140.0,7.0,0
 Maruti Swift AMT ZXI BSIV,640000,25000,Petrol,Automatic,1197.0,81.8,5.0,2
@@ -4912,7 +4912,7 @@ Maruti Ignis Zeta AMT,600000,5000,Petrol,Automatic,1197.0,81.8,5.0,2
 Maruti A-Star Vxi,300000,60000,Petrol,Manual,998.0,66.1,5.0,1
 Maruti Zen Estilo VXI BSIII,160000,74800,Petrol,Manual,998.0,67.1,5.0,1
 Maruti 800 AC BSIII,120000,80000,Petrol,Manual,796.0,37.0,4.0,1
-Maruti Eeco CNG 5 Seater AC BSIV,220000,270000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,220000,270000,CNG,Manual,1196.0,61.7,5.0,4
 Hyundai EON 1.0 Era Plus,340000,120000,Petrol,Manual,998.0,68.05,5.0,1
 Honda City 2017-2020 EXi,138000,120000,Petrol,Manual,1497.0,78.0,5.0,1
 Maruti Swift Dzire VXi,231000,80000,Petrol,Manual,1298.0,85.8,5.0,1
@@ -4986,7 +4986,7 @@ Datsun GO Plus Anniversary Edition,450000,80000,Petrol,Manual,1198.0,67.0,7.0,1
 Hyundai Creta 1.6 CRDi SX Plus,1150000,27000,Diesel,Manual,1582.0,126.2,5.0,0
 Mahindra KUV 100 G80 K8 Dual Tone,500000,60000,Petrol,Manual,1198.0,82.0,6.0,1
 Maruti Wagon R VXI BS IV,246000,139000,Petrol,Manual,998.0,67.1,5.0,1
-Maruti Eeco CNG 5 Seater AC BSIV,400000,60000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,400000,60000,CNG,Manual,1196.0,61.7,5.0,4
 Maruti 800 AC,65000,10000,Petrol,Manual,796.0,37.0,4.0,1
 Ford Ecosport 1.5 Diesel Titanium,725000,30000,Diesel,Manual,1498.0,98.96,5.0,0
 Hyundai Verna 1.6 SX CRDI (O) AT,736000,125000,Diesel,Automatic,1582.0,126.32,5.0,2
@@ -5038,7 +5038,7 @@ Renault Duster 110PS Diesel RxZ,880000,50000,Diesel,Manual,1461.0,108.45,5.0,0
 Toyota Innova 2.5 GX (Diesel) 7 Seater,700000,121000,Diesel,Manual,2494.0,100.6,7.0,0
 Mahindra Scorpio 2009-2014 SLE 7S BSIII,380000,120000,Diesel,Manual,2179.0,120.0,7.0,0
 Toyota Corolla H2,150000,90000,Petrol,Manual,1794.0,125.0,5.0,1
-Maruti Zen Estilo LXI Green (CNG),235000,70000,CNG,Manual,998.0,67.1,5.0,3
+Maruti Zen Estilo LXI Green (CNG),235000,70000,CNG,Manual,998.0,67.1,5.0,4
 Renault KWID 1.0 RXT Optional,320000,20000,Petrol,Manual,999.0,67.0,5.0,1
 Renault Duster 85PS Diesel RxL,550000,60000,Diesel,Manual,1461.0,83.8,5.0,0
 BMW 5 Series 520d Luxury Line,3200000,40000,Diesel,Automatic,1995.0,190.0,5.0,2
@@ -5051,15 +5051,15 @@ Mahindra Bolero 2011-2019 ZLX BSIII,451000,70000,Diesel,Manual,2523.0,62.1,7.0,0
 Tata Nexon 1.2 Revotron XZ Plus,850000,50000,Petrol,Manual,1198.0,108.5,5.0,1
 Maruti Swift Dzire VDi,300000,125000,Diesel,Manual,1248.0,73.9,5.0,0
 Ford Figo 1.2P Trend MT,350000,60000,Petrol,Manual,1196.0,86.8,5.0,1
-Maruti Eeco CNG HTR 5-STR,300000,90000,CNG,Manual,1196.0,63.0,5.0,3
-Maruti Eeco CNG HTR 5-STR,390000,30000,CNG,Manual,1196.0,63.0,5.0,3
+Maruti Eeco CNG HTR 5-STR,300000,90000,CNG,Manual,1196.0,63.0,5.0,4
+Maruti Eeco CNG HTR 5-STR,390000,30000,CNG,Manual,1196.0,63.0,5.0,4
 Toyota Innova 2.5 VX (Diesel) 8 Seater,1200000,90000,Diesel,Manual,2494.0,100.6,8.0,0
 Volkswagen Ameo 1.2 MPI Comfortline,550000,20000,Petrol,Manual,1198.0,73.75,5.0,1
 Maruti Swift VDI,300000,110000,Diesel,Manual,1248.0,74.0,5.0,0
 Volkswagen Vento Diesel Highline,300000,150000,Diesel,Manual,1598.0,103.6,5.0,0
 Hyundai i20 1.4 CRDi Sportz,350000,110000,Diesel,Manual,1396.0,90.0,5.0,0
 Hyundai Creta 1.6 CRDi SX Option,880000,120000,Diesel,Manual,1582.0,126.2,5.0,0
-Hyundai Aent Executive CNG,160000,120000,CNG,Manual,1495.0,93.7,5.0,3
+Hyundai Aent Executive CNG,160000,120000,CNG,Manual,1495.0,93.7,5.0,4
 Tata Sumo GX,250000,80000,Diesel,Manual,2956.0,83.8,7.0,0
 Hyundai i20 Active 1.4 SX,660000,110000,Diesel,Manual,1396.0,88.73,5.0,0
 Tata Zest Revotron 1.2T XMS,450000,40000,Petrol,Manual,1193.0,88.7,5.0,1
@@ -5129,7 +5129,7 @@ Hyundai i10 Magna,260000,60000,Petrol,Manual,1197.0,78.9,5.0,1
 Volkswagen Polo 1.5 TDI Highline,400000,110000,Diesel,Manual,1498.0,88.8,5.0,0
 Hyundai i20 2015-2017 Magna 1.4 CRDi,575000,70000,Diesel,Manual,1396.0,88.73,5.0,0
 Hyundai Santro Xing GL,175000,40000,Petrol,Manual,1086.0,62.0,5.0,1
-Maruti SX4 Green Vxi (CNG),250000,90000,CNG,Manual,1586.0,103.3,5.0,3
+Maruti SX4 Green Vxi (CNG),250000,90000,CNG,Manual,1586.0,103.3,5.0,4
 Volkswagen Polo GT TDI,400000,95000,Diesel,Manual,1598.0,103.6,5.0,0
 Mahindra Bolero SLX 2WD BSIII,350000,200000,Diesel,Manual,2523.0,63.0,7.0,0
 Maruti Swift VDI BSIV,484999,30000,Diesel,Manual,1248.0,74.0,5.0,0
@@ -5283,8 +5283,8 @@ Hyundai Elite i20 Sportz Plus Diesel,834000,13000,Diesel,Manual,1396.0,88.76,5.0
 Tata Tiago 1.05 Revotorq XT,450000,80000,Diesel,Manual,1047.0,69.0,5.0,0
 Volkswagen Polo 1.5 TDI Comfortline,575000,40000,Diesel,Manual,1498.0,88.8,5.0,0
 Maruti Swift Dzire ZDI Plus,900000,20000,Diesel,Manual,1248.0,74.02,5.0,0
-Maruti 800 AC LPG,149000,87540,LPG,Manual,796.0,35.5,5.0,4
-Chevrolet Spark 1.0 PS LPG,100000,84000,LPG,Manual,995.0,60.0,5.0,4
+Maruti 800 AC LPG,149000,87540,LPG,Manual,796.0,35.5,5.0,3
+Chevrolet Spark 1.0 PS LPG,100000,84000,LPG,Manual,995.0,60.0,5.0,3
 Skoda Fabia 1.2L Diesel Elegance,325000,160000,Diesel,Manual,1199.0,75.0,5.0,0
 Volkswagen Vento Diesel Comfortline,400000,100000,Diesel,Manual,1598.0,103.6,5.0,0
 Hyundai EON 1.0 Era Plus,250000,35000,Petrol,Manual,998.0,68.05,5.0,1
@@ -5301,7 +5301,7 @@ Maruti Ritz VDi,240000,90000,Diesel,Manual,1248.0,73.9,5.0,0
 Hyundai Creta 1.6 CRDi SX,1150000,154000,Diesel,Manual,1582.0,126.2,5.0,0
 Renault Duster 110PS Diesel RxZ Plus,520000,109000,Diesel,Manual,1461.0,108.45,5.0,0
 Maruti Swift Dzire VDI,675000,120000,Diesel,Manual,1248.0,74.0,5.0,0
-Maruti Wagon R LXI CNG,297000,100000,CNG,Manual,998.0,58.2,5.0,3
+Maruti Wagon R LXI CNG,297000,100000,CNG,Manual,998.0,58.2,5.0,4
 Tata New Safari DICOR 2.2 LX 4x2,250000,110000,Diesel,Manual,2179.0,138.1,7.0,0
 Hyundai Aent CRDi,200000,200000,Diesel,Manual,1493.0,82.0,5.0,0
 Maruti Wagon R Stingray VXI,380000,39000,Petrol,Manual,998.0,67.04,5.0,1
@@ -5375,7 +5375,7 @@ Jaguar XF 3.0 Litre S Premium Luxury,2000000,51000,Diesel,Automatic,2993.0,270.9
 Honda Mobilio V i DTEC,490000,120000,Diesel,Manual,1498.0,98.6,7.0,0
 Maruti Zen Estilo LXI BS IV,180000,55000,Petrol,Manual,998.0,67.1,5.0,1
 Nissan Micra XV CVT,310000,91400,Petrol,Automatic,1198.0,76.0,5.0,2
-Hyundai Aent Executive CNG,275000,48000,CNG,Manual,1495.0,93.7,5.0,3
+Hyundai Aent Executive CNG,275000,48000,CNG,Manual,1495.0,93.7,5.0,4
 Chevrolet Enjoy TCDi LTZ 7 Seater,450000,80000,Diesel,Manual,1248.0,73.8,7.0,0
 Mahindra KUV 100 mFALCON D75 K6,500000,50000,Diesel,Manual,1198.0,77.0,6.0,0
 Hyundai Verna Transform SX VGT CRDi AT BS III,245000,185000,Diesel,Automatic,1493.0,110.0,5.0,2
@@ -5400,7 +5400,7 @@ Ford Figo Aspire 1.5 TDCi Trend,400000,143000,Diesel,Manual,1498.0,99.0,5.0,0
 Maruti Swift Dzire VDI,600000,100000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Celerio X VXI,459999,50000,Petrol,Manual,998.0,67.0,5.0,1
 Hyundai i20 1.4 Asta Option,800000,30000,Diesel,Manual,1396.0,88.73,5.0,0
-Maruti Eeco CNG 5 Seater AC BSIV,370000,25000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,370000,25000,CNG,Manual,1196.0,61.7,5.0,4
 Toyota Innova 2.5 GX 8 STR BSIV,800000,102000,Diesel,Manual,2494.0,102.0,8.0,0
 Renault Pulse RxL Optional,290000,90000,Diesel,Manual,1461.0,63.12,5.0,0
 Maruti Swift VDI,671000,62000,Diesel,Manual,1248.0,74.0,5.0,0
@@ -5421,7 +5421,7 @@ Renault Scala Diesel RxE,530000,110000,Diesel,Manual,1461.0,84.8,5.0,0
 Hyundai Grand i10 1.2 CRDi Sportz Option,530000,80000,Diesel,Manual,1186.0,73.97,5.0,0
 Hyundai Santro Xing GLS,210000,50000,Petrol,Manual,1086.0,62.1,5.0,1
 Maruti Alto LXi,130000,90000,Petrol,Manual,796.0,46.3,5.0,1
-Maruti Wagon R LXI DUO BSIII,148000,80000,LPG,Manual,1061.0,57.5,5.0,4
+Maruti Wagon R LXI DUO BSIII,148000,80000,LPG,Manual,1061.0,57.5,5.0,3
 Volkswagen Passat Highline DSG S,585000,120000,Diesel,Automatic,1968.0,140.0,5.0,2
 Hyundai i20 1.4 CRDi Magna,270000,105000,Diesel,Manual,1396.0,90.0,5.0,0
 Hyundai i10 Magna 1.2 iTech SE,375000,40000,Petrol,Manual,1197.0,78.9,5.0,1
@@ -5583,7 +5583,7 @@ Chevrolet Beat LS,125000,90000,Petrol,Manual,1199.0,79.4,5.0,1
 Maruti 800 Std,45000,60000,Petrol,Manual,796.0,37.0,4.0,1
 Chevrolet Beat LS,124000,40000,Petrol,Manual,1199.0,79.4,5.0,1
 Tata Indica GLS BS IV,80000,80000,Petrol,Manual,1193.0,65.3,5.0,1
-Maruti Ertiga VXI CNG Limited Edition,545000,35000,CNG,Manual,1373.0,80.9,7.0,3
+Maruti Ertiga VXI CNG Limited Edition,545000,35000,CNG,Manual,1373.0,80.9,7.0,4
 Maruti Ertiga ZDI Plus,1050000,20000,Diesel,Manual,1248.0,88.5,7.0,0
 Chevrolet Sail 1.2 LS,200000,50000,Petrol,Manual,1199.0,82.4,5.0,1
 Mahindra XUV500 AT W10 FWD,1100000,77000,Diesel,Automatic,2179.0,140.0,7.0,2
@@ -5602,7 +5602,7 @@ Ford Figo Diesel Titanium,180000,125000,Diesel,Manual,1399.0,68.0,5.0,0
 Mahindra Verito 1.5 D2 BSIII,225000,110000,Diesel,Manual,1461.0,65.0,5.0,0
 Hyundai EON Era Plus,310000,25000,Petrol,Manual,814.0,55.2,5.0,1
 Honda City i DTEC SV,625000,30000,Diesel,Manual,1498.0,98.6,5.0,0
-Hyundai i10 Magna LPG,275000,70000,LPG,Manual,1086.0,68.05,5.0,4
+Hyundai i10 Magna LPG,275000,70000,LPG,Manual,1086.0,68.05,5.0,3
 Hyundai i10 Era,245000,110000,Petrol,Manual,1086.0,68.05,5.0,1
 Maruti Zen Estilo VXI BSIV,160000,200000,Petrol,Manual,998.0,67.1,5.0,1
 Hyundai EON Era Plus,250000,80000,Petrol,Manual,814.0,55.2,5.0,1
@@ -5618,16 +5618,16 @@ Hyundai Verna 1.6 SX,360000,100000,Diesel,Manual,1582.0,126.32,5.0,0
 Tata Tiago 1.05 Revotorq XT Option,350000,24000,Diesel,Manual,1047.0,69.0,5.0,0
 Ford EcoSport 1.5 Diesel Trend Plus BSIV,700000,53000,Diesel,Manual,1498.0,98.96,5.0,0
 Maruti Alto LXi,148000,40000,Petrol,Manual,796.0,46.3,5.0,1
-Maruti Eeco CNG HTR 5-STR,330000,47370,CNG,Manual,1196.0,63.0,5.0,3
+Maruti Eeco CNG HTR 5-STR,330000,47370,CNG,Manual,1196.0,63.0,5.0,4
 Skoda Octavia Ambiente 1.9 TDI MT,110000,120000,Diesel,Manual,1896.0,66.0,5.0,0
 Maruti Swift VDI Windsong Limited edition,450000,100000,Diesel,Manual,1248.0,73.94,5.0,0
 Chevrolet Captiva LT,260000,80000,Diesel,Manual,1991.0,147.9,7.0,0
 Hyundai i10 Sportz,200000,91000,Petrol,Manual,1197.0,78.9,5.0,1
-Maruti Alto K10 LXI CNG,430000,20000,CNG,Manual,998.0,58.3,4.0,3
+Maruti Alto K10 LXI CNG,430000,20000,CNG,Manual,998.0,58.3,4.0,4
 Mahindra Scorpio SLE BSIII,550000,80000,Diesel,Manual,2179.0,120.0,8.0,0
 Maruti Ritz LDi,245000,80000,Diesel,Manual,1248.0,73.94,5.0,0
-Maruti Eeco CNG 5 Seater AC BSIV,320000,80000,CNG,Manual,1196.0,61.7,5.0,3
-Hyundai Aent GLE CNG,120000,110000,CNG,Manual,1495.0,94.0,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,320000,80000,CNG,Manual,1196.0,61.7,5.0,4
+Hyundai Aent GLE CNG,120000,110000,CNG,Manual,1495.0,94.0,5.0,4
 Hyundai Elantra CRDi SX,615000,120000,Diesel,Manual,1582.0,126.24,5.0,0
 Skoda Superb Elegance 2.0 TDI CR AT,600000,90000,Diesel,Automatic,1968.0,138.1,5.0,2
 Volkswagen Passat 1.8 TSI MT,300000,120000,Petrol,Manual,1798.0,160.0,5.0,1
@@ -5647,7 +5647,7 @@ Maruti Ritz LDi,295000,120000,Diesel,Manual,1248.0,73.94,5.0,0
 Tata Sumo MKII Turbo 2.0 LX,235000,90000,Diesel,Manual,1948.0,90.0,9.0,0
 Hyundai Sonata 2.4 GDi MT,500000,330000,Petrol,Manual,2359.0,198.25,5.0,0
 Maruti Swift VVT VXI,509999,20000,Petrol,Manual,1197.0,81.8,5.0,1
-Maruti Alto 800 LXI CNG,370000,16000,CNG,Manual,796.0,47.3,5.0,3
+Maruti Alto 800 LXI CNG,370000,16000,CNG,Manual,796.0,47.3,5.0,4
 Hyundai Grand i10 Sportz,370000,30000,Petrol,Manual,1197.0,82.0,5.0,1
 Mahindra Quanto C8,300000,210000,Diesel,Manual,1493.0,100.0,7.0,0
 Hyundai i10 Sportz 1.1L,350000,20000,Petrol,Manual,1086.0,68.05,5.0,1
@@ -5834,7 +5834,7 @@ Chevrolet Beat LT,150000,100000,Petrol,Manual,1199.0,79.4,5.0,1
 Hyundai EON D Lite Plus,215000,40000,Petrol,Manual,814.0,55.2,5.0,1
 Datsun GO T BSIV,225000,35000,Petrol,Manual,1198.0,67.0,5.0,1
 Renault KWID Climber 1.0 MT,330000,20000,Petrol,Manual,999.0,67.0,5.0,1
-Maruti Omni LPG CARGO BSIII W IMMOBILISER,54000,144000,LPG,Manual,796.0,32.8,5.0,4
+Maruti Omni LPG CARGO BSIII W IMMOBILISER,54000,144000,LPG,Manual,796.0,32.8,5.0,3
 Hyundai Grand i10 AT Sportz,374000,54043,Petrol,Automatic,1197.0,81.86,5.0,2
 Hyundai Verna 1.6 SX CRDI (O) AT,549000,66657,Diesel,Automatic,1582.0,126.32,5.0,2
 Tata Indigo CS LS (TDI) BS-III,390000,42000,Diesel,Manual,1405.0,69.01,5.0,0
@@ -6077,7 +6077,7 @@ Hyundai i20 Asta 1.4 CRDi (Diesel),310000,120000,Diesel,Manual,1396.0,90.0,5.0,0
 Toyota Innova 2.5 V Diesel 7-seater,700000,250000,Diesel,Manual,2494.0,102.0,7.0,0
 Ford Figo 1.5D Titanium Opt MT,459999,69000,Diesel,Manual,1498.0,99.0,5.0,0
 Maruti Ciaz ZDi Plus SHVS,860000,80000,Diesel,Manual,1248.0,88.5,5.0,0
-Hyundai i10 LPG,275000,97000,LPG,Manual,1086.0,68.1,5.0,4
+Hyundai i10 LPG,275000,97000,LPG,Manual,1086.0,68.1,5.0,3
 Renault KWID RXT Optional,390000,15000,Petrol,Manual,799.0,53.3,5.0,1
 Tata Hexa XT,1525000,50000,Diesel,Manual,2179.0,153.86,7.0,0
 Maruti Alto LX BSIII,110000,50800,Petrol,Manual,796.0,46.3,5.0,1
@@ -6160,7 +6160,7 @@ Maruti Ertiga ZXI,650000,60000,Petrol,Manual,1373.0,93.7,7.0,1
 Maruti Swift Dzire ZXI,620000,36000,Petrol,Manual,1197.0,83.14,5.0,1
 Maruti Wagon R VXI BS IV,250000,65000,Petrol,Manual,998.0,67.1,5.0,1
 BMW X1 sDrive20d,1000000,50000,Diesel,Automatic,1995.0,184.0,5.0,2
-Maruti Wagon R Duo Lxi,300000,60000,LPG,Manual,998.0,58.2,5.0,4
+Maruti Wagon R Duo Lxi,300000,60000,LPG,Manual,998.0,58.2,5.0,3
 Fiat Grande Punto 1.3 Emotion (Diesel),300000,82500,Diesel,Manual,1248.0,75.0,5.0,0
 Ford EcoSport 1.5 Diesel Titanium BSIV,810000,30000,Diesel,Manual,1498.0,98.96,5.0,0
 Chevrolet Cruze LTZ,270000,100000,Diesel,Manual,1991.0,147.9,5.0,0
@@ -6305,7 +6305,7 @@ Hyundai Grand i10 CRDi Magna,300000,60000,Diesel,Manual,1120.0,70.0,5.0,0
 Maruti Alto 800 LXI,270000,22000,Petrol,Manual,796.0,47.3,5.0,1
 Tata New Safari DICOR 2.2 EX 4x2,185000,70000,Diesel,Manual,2179.0,138.1,7.0,0
 Chevrolet Sail Hatchback LT ABS,200000,80000,Diesel,Manual,1248.0,76.9,5.0,0
-Maruti Wagon R LXI CNG Optional,459999,35000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG Optional,459999,35000,CNG,Manual,998.0,58.16,5.0,4
 Tata Nexon 1.5 Revotorq XZ Plus Dual Tone,860000,60000,Diesel,Manual,1497.0,108.5,5.0,0
 Tata Tiago 1.2 Revotron XE,400000,20000,Petrol,Manual,1199.0,84.0,5.0,1
 Maruti Ritz VDi,240000,142000,Diesel,Manual,1248.0,73.94,5.0,0
@@ -6665,7 +6665,7 @@ Maruti Swift Dzire ZDI,590000,50000,Diesel,Manual,1248.0,74.0,5.0,0
 Chevrolet Tavera Neo 3 10 Seats BSIII,434000,120000,Diesel,Manual,2499.0,72.4,10.0,0
 Mahindra Bolero DI BSIII,145000,170000,Diesel,Manual,2523.0,63.0,7.0,0
 Mahindra KUV 100 G80 K4 Plus 5Str,445000,19700,Petrol,Manual,1198.0,82.0,5.0,1
-Hyundai Santro Xing GL Plus LPG,191000,70000,LPG,Manual,1086.0,62.1,5.0,4
+Hyundai Santro Xing GL Plus LPG,191000,70000,LPG,Manual,1086.0,62.1,5.0,3
 Ford Figo Aspire 1.5 TDCi Titanium,372000,50000,Diesel,Manual,1498.0,99.0,5.0,0
 Maruti Wagon R LXI,65000,90000,Petrol,Manual,998.0,67.1,5.0,1
 Ford Figo Diesel LXI,300000,140000,Diesel,Manual,1399.0,68.05,5.0,0
@@ -6843,7 +6843,7 @@ Ford EcoSport 1.5 Diesel Titanium Plus BSIV,950000,35000,Diesel,Manual,1498.0,98
 Chevrolet Cruze LTZ,300000,60000,Diesel,Manual,1991.0,147.9,5.0,0
 Honda City i-VTEC CVT VX,1150000,6825,Petrol,Automatic,1497.0,117.6,5.0,2
 Chevrolet Cruze LTZ AT,450000,155000,Diesel,Automatic,1998.0,163.7,5.0,2
-Maruti Eeco CNG 5 Seater AC BSIV,375000,50000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,375000,50000,CNG,Manual,1196.0,61.7,5.0,4
 Maruti Ertiga BSIV VXI,600000,13500,Petrol,Manual,1373.0,91.1,7.0,1
 Toyota Innova 2.5 V Diesel 8-seater,700000,260000,Diesel,Manual,2494.0,102.0,8.0,0
 Hyundai Xcent 1.2 CRDi S,600000,65000,Diesel,Manual,1186.0,73.97,5.0,0
@@ -6903,7 +6903,7 @@ Mahindra TUV 300 mHAWK100 T8,700000,60000,Diesel,Manual,1493.0,100.0,7.0,0
 Mahindra Bolero 2011-2019 DI - AC BS III,600000,60000,Diesel,Manual,2523.0,63.0,9.0,0
 Nissan Terrano XL,700000,40000,Petrol,Manual,1598.0,102.5,5.0,1
 Tata Tiago 1.05 Revotorq XT,400000,60000,Diesel,Manual,1047.0,69.0,5.0,0
-Hyundai Aent Executive LPG,165000,80000,LPG,Manual,1495.0,93.7,5.0,4
+Hyundai Aent Executive LPG,165000,80000,LPG,Manual,1495.0,93.7,5.0,3
 Toyota Innova 2.5 V Diesel 8-seater,350000,376412,Diesel,Manual,2494.0,102.0,8.0,0
 Maruti Ertiga VXI,425000,80000,Petrol,Manual,1373.0,93.7,7.0,1
 Hyundai Santro Xing GL Plus,180000,70000,Petrol,Manual,1086.0,62.1,5.0,1
@@ -6914,7 +6914,7 @@ Ford EcoSport 1.5 Diesel Titanium Plus BSIV,900000,35000,Diesel,Manual,1498.0,98
 Maruti Swift VDI,390000,120000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Swift Dzire VDI,445000,80000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Swift Dzire VDI,459999,70000,Diesel,Manual,1248.0,74.0,5.0,0
-Maruti Wagon R LXI DUO BS IV,275000,55000,LPG,Manual,998.0,61.7,5.0,4
+Maruti Wagon R LXI DUO BS IV,275000,55000,LPG,Manual,998.0,61.7,5.0,3
 Maruti Ritz VDi,200000,120000,Diesel,Manual,1248.0,73.9,5.0,0
 Maruti Swift Dzire 1.2 Lxi BSIV,350000,72000,Petrol,Manual,1197.0,85.8,5.0,1
 Tata New Safari 4X4 EXI BSIII,95000,120000,Diesel,Manual,2092.0,127.0,7.0,0
@@ -6967,7 +6967,7 @@ Tata Hexa XT,1200000,150000,Diesel,Manual,2179.0,153.86,7.0,0
 Tata Hexa XM,1251000,35000,Diesel,Manual,2179.0,153.86,7.0,0
 Tata Indigo CS eLX BS IV,200000,60000,Diesel,Manual,1396.0,69.0,5.0,0
 Hyundai i20 Active 1.4 SX with AVN,750000,40000,Diesel,Manual,1396.0,88.73,5.0,0
-Maruti Wagon R LXI CNG,400000,60000,CNG,Manual,998.0,58.16,5.0,3
+Maruti Wagon R LXI CNG,400000,60000,CNG,Manual,998.0,58.16,5.0,4
 Honda Amaze E i-VTEC,475000,57000,Petrol,Manual,1198.0,86.7,5.0,1
 Tata Indigo VS,110000,120000,Diesel,Manual,1405.0,70.0,5.0,0
 Renault KWID 1.0 RXT 02 Anniversary Edition,350000,30000,Petrol,Manual,999.0,67.0,5.0,1
@@ -7044,7 +7044,7 @@ Volkswagen Polo Diesel Comfortline 1.2L,320000,77000,Diesel,Manual,1199.0,73.9,5
 Mahindra KUV 100 D75 K8 Dual Tone,690000,40000,Diesel,Manual,1198.0,77.0,6.0,0
 Maruti Swift Dzire ZDi,375000,70000,Diesel,Manual,1248.0,73.9,5.0,0
 Ford Figo 1.2P Sports Edition MT,620000,50000,Petrol,Manual,1196.0,86.8,5.0,1
-Hyundai Santro Xing GL Plus LPG,300000,85000,LPG,Manual,1086.0,62.1,5.0,4
+Hyundai Santro Xing GL Plus LPG,300000,85000,LPG,Manual,1086.0,62.1,5.0,3
 Maruti Eeco 7 Seater Standard BSIV,370000,58000,Petrol,Manual,1196.0,73.0,7.0,1
 Mahindra Thar 4X4,770000,85000,Diesel,Manual,2498.0,105.0,7.0,0
 Hyundai Xcent 1.2 Kappa S Option,500000,65000,Petrol,Manual,1197.0,81.86,5.0,1
@@ -7097,14 +7097,14 @@ Skoda Octavia Ambiente 1.9 TDI,355000,116000,Diesel,Manual,1896.0,66.0,5.0,0
 Hyundai Verna 1.6 CRDi S Option,600000,80000,Diesel,Manual,1582.0,126.32,5.0,0
 Maruti Swift VDI,685000,26000,Diesel,Manual,1248.0,74.0,5.0,0
 Maruti Swift LDI,509999,100000,Diesel,Manual,1248.0,74.0,5.0,0
-Maruti Alto Green LXi (CNG),150000,82300,CNG,Manual,796.0,38.4,5.0,3
+Maruti Alto Green LXi (CNG),150000,82300,CNG,Manual,796.0,38.4,5.0,4
 Maruti Swift Dzire Vdi BSIV,650000,82050,Diesel,Manual,1248.0,73.9,5.0,0
 Mahindra XUV500 W8 4WD,675000,120000,Diesel,Manual,2179.0,140.0,7.0,0
 Renault KWID AMT,319000,30000,Petrol,Automatic,999.0,67.0,5.0,2
 Honda Amaze S Petrol BSIV,640000,6000,Petrol,Manual,1199.0,88.76,5.0,1
 Hyundai i20 1.2 Asta,650000,30000,Petrol,Manual,1197.0,81.83,5.0,1
 Maruti Ertiga VDI,650000,70000,Diesel,Manual,1248.0,88.76,7.0,0
-Maruti Alto Green LXi (CNG),155000,70000,CNG,Manual,796.0,38.4,5.0,3
+Maruti Alto Green LXi (CNG),155000,70000,CNG,Manual,796.0,38.4,5.0,4
 Maruti Ertiga VDI,650000,70000,Diesel,Manual,1248.0,88.76,7.0,0
 Maruti Swift Ldi BSIII,175000,120000,Diesel,Manual,1248.0,75.0,5.0,0
 Hyundai Grand i10 CRDi SportZ Edition,375000,76000,Diesel,Manual,1120.0,70.0,5.0,0
@@ -7329,7 +7329,7 @@ Maruti Omni 8 Seater BSIV,150000,35000,Petrol,Manual,796.0,35.0,5.0,1
 Hyundai i10 Era,300000,30000,Petrol,Manual,1086.0,68.05,5.0,1
 Hyundai i20 1.2 Asta Dual Tone,730000,2388,Petrol,Manual,1197.0,81.83,5.0,1
 Maruti Vitara Brezza LDi,650000,16200,Diesel,Manual,1248.0,88.5,5.0,0
-Maruti Alto 800 CNG LXI Optional,330000,10000,CNG,Manual,796.0,40.3,4.0,3
+Maruti Alto 800 CNG LXI Optional,330000,10000,CNG,Manual,796.0,40.3,4.0,4
 Maruti Alto K10 VXI Airbag,366000,15000,Petrol,Manual,998.0,67.1,5.0,1
 Hyundai Verna VTVT 1.6 SX Option,1149000,5000,Petrol,Manual,1591.0,121.3,5.0,1
 Datsun GO D,150000,42000,Petrol,Manual,1198.0,67.0,5.0,1
@@ -7425,7 +7425,7 @@ Tata Tiago 1.05 Revotorq XZ,540000,33000,Diesel,Manual,1047.0,69.0,5.0,0
 Maruti Ertiga VXI,560000,59000,Petrol,Manual,1373.0,93.7,7.0,1
 Volkswagen Vento Diesel Highline,380000,200000,Diesel,Manual,1598.0,103.6,5.0,0
 Ford Figo Petrol Titanium,240000,80000,Petrol,Manual,1196.0,70.0,5.0,1
-Chevrolet Spark 1.0 LT LPG,300000,70000,LPG,Manual,995.0,60.2,5.0,4
+Chevrolet Spark 1.0 LT LPG,300000,70000,LPG,Manual,995.0,60.2,5.0,3
 Datsun RediGO S,280000,50000,Petrol,Manual,799.0,53.64,5.0,1
 Maruti Ritz VDi,350000,118000,Diesel,Manual,1248.0,73.9,5.0,0
 Tata Indica Vista TDI LS,110000,250000,Diesel,Manual,1405.0,70.0,5.0,0
@@ -7514,7 +7514,7 @@ Tata Manza Aqua Quadrajet,88000,97343,Diesel,Manual,1248.0,90.0,5.0,0
 Maruti Omni 8 Seater BSII,160000,70000,Petrol,Manual,796.0,35.0,8.0,1
 Hyundai i10 Sportz,290000,31000,Petrol,Manual,1197.0,78.9,5.0,1
 Mahindra Scorpio S4 7 Seater,650000,70000,Diesel,Manual,2179.0,120.0,7.0,0
-Maruti Eeco CNG 5 Seater AC BSIV,380000,20000,CNG,Manual,1196.0,61.7,5.0,3
+Maruti Eeco CNG 5 Seater AC BSIV,380000,20000,CNG,Manual,1196.0,61.7,5.0,4
 Hyundai EON D Lite Plus,180000,62000,Petrol,Manual,814.0,55.2,5.0,1
 Maruti 800 AC,75000,29000,Petrol,Manual,796.0,37.0,4.0,1
 Tata Safari DICOR 2.2 LX 4x2,132000,82507,Diesel,Manual,2179.0,138.03,7.0,0
@@ -7692,7 +7692,7 @@ Tata Nexon 1.5 Revotorq XM,850000,9500,Diesel,Manual,1497.0,108.5,5.0,0
 Maruti Eeco 7 Seater Standard BSIV,359000,5500,Petrol,Manual,1196.0,73.0,7.0,1
 Renault KWID RXT,320000,28000,Petrol,Manual,799.0,53.3,5.0,1
 Tata Indica GLS BS IV,110000,113000,Petrol,Manual,1193.0,65.3,5.0,1
-Maruti Eeco 5 STR With AC Plus HTR CNG,209000,1,CNG,Manual,1196.0,73.0,5.0,3
+Maruti Eeco 5 STR With AC Plus HTR CNG,209000,1,CNG,Manual,1196.0,73.0,5.0,4
 Tata Manza Aura (ABS) Safire,169000,100000,Petrol,Manual,1368.0,90.0,5.0,1
 Hyundai Grand i10 CRDi Magna,400000,50074,Diesel,Manual,1120.0,70.0,5.0,0
 Hyundai i20 Asta 1.4 CRDi,600000,100000,Diesel,Manual,1396.0,88.73,5.0,0
