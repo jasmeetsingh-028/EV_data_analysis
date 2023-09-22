@@ -2,7 +2,8 @@
 
 [![Open Dashboard 1](https://img.shields.io/badge/Open%20Dashboard%201-View%20Dashboard-blue?style=flat)](https://app.powerbi.com/groups/me/reports/80517e4d-a7fa-4fdd-8340-60c660fb343c/ReportSection?experience=power-bi)
 [![Open Dashboard 2](https://img.shields.io/badge/Open%20Dashboard%202-View%20Dashboard-green?style=flat)](https://app.powerbi.com/groups/me/reports/fcab2012-2521-43c8-b5e5-b28e549b42e7?pbi_source=desktop)
-[![Open Report](https://img.shields.io/badge/Open%20-Reportpurple?style=flat)](https://drive.google.com/file/d/1ZIebJUYRMpgjtuEKWy_QOJ1zBTlY84j-/view?usp=sharing)
+[![Open Report](https://img.shields.io/badge/Link-Red-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ZIebJUYRMpgjtuEKWy_QOJ1zBTlY84j-/view?usp=sharing)
+
 
 
 # Electric Vehicle (EV) Analysis Project
