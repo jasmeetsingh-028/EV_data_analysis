@@ -42,7 +42,7 @@ To retrieve updated EV data, you can use the provided `fetch.py` script for web 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
